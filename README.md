@@ -6,7 +6,7 @@
 - check với anh Sỹ Hưng + anh Thắng để để collect proposal của đối tác (Katalyst, IBM, BNH, FIS)
 - Tạo presso trình bày so sánh giữa các đề xuất về giá/phương án kỹ thuật/phạm vi triển khai/thời gian/...
 
-## Research
+## Pending Research
 - ebook decipher data architect
 - kafka best practice / kafka architect
 - Bian
@@ -15,3 +15,7 @@
 - container
 - design thinking
 - safe scrum master
+
+## Completed Work
+
+## Completed Research
