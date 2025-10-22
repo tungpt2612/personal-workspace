@@ -9,7 +9,7 @@
 
 ## Pending Research
 - ebook decipher data architect
-- kafka best practice / kafka architect
+- kafka best practice / kafka architect (from confluence)
 - Bian
 - Togaf
 - gg/azure/aws architect
