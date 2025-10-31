@@ -9,6 +9,7 @@
 - Build team
 - Setup họp 2 tuần / 1 lần từ tháng 11
 - Anh Dũng gửi tham khảo từ thầy Khoa.
+- Test ODI cho mongodb -> oracle
 
 ## Pending Research
 - ebook decipher data architect
