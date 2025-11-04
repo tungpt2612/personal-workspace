@@ -19,7 +19,7 @@
     - Predictive (Forecast number based on number above)
     - Prescriptive (Making Decision based on above output)
 - Data Strategy involved with all Aspects that listed above. So how to approach and define reasonable Data Strategy
-    1. Assess 5 Objects of Data Strategy, current state 
+    **1. Assess 5 Objects of Data Strategy, current state **
     ```javascript
     Next actions is to create questionnaire to assess.
     ```
