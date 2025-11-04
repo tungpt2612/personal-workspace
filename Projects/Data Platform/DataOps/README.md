@@ -39,4 +39,7 @@
     ```javascript
     Next actions is define Data Strategy Initiatives that could close as many gaps as possible
     ```    
-
+    6. **Excution Data Strategy Initiatives**
+    ```javascript
+    Make a excution plan based on resource and priority, excute the plan using agile approach as possible anddo measure at every step to make sure the strategy going the right way. It's like have a success criteria to know if the things are being done correctly
+    ```
