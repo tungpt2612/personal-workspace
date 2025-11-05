@@ -9,4 +9,4 @@
     - **Value** - Could be any format Avro, JSON, not limited to anything.
     - Additional part to provide context of the event/message like timestamp,etc
 - Since the log is immutable so in case Topic have only one partition then events and message will come in ordered.
-- Kafka Topic could be also
+- Kafka Topic could also be partitioned using **KEY** to make sure all of the event/messages that has the same key will be put into 1 partition only without scattered every partitions without knowing what ordered is it.
