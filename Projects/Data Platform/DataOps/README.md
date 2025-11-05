@@ -1,5 +1,4 @@
-## 03/11
-### Data Strategy
+## Data Strategy
 - 6 Stages of Data (Doesn't need to be linear or in order, could be loop at any Stage)
     - Capture
     - Store
@@ -25,3 +24,12 @@
     4. **Gap Analysis.** <span style="color:red;">Next actions is walk through all 5 of the Objects and 6 Stages of Data to identify what is missing from ideal architecture that prevent organization to achieve to target.</span>
     5. **Deliver Data Strategy.** <span style="color:red;">Next actions is define Data Strategy Initiatives that could close as many gaps as possible.</span>
     6. **Excution Data Strategy Initiatives.** <span style="color:red;">Make a excution plan based on resource and priority, excute the plan using agile approach as possible anddo measure at every step to make sure the strategy going the right way. It's like have a success criteria to know if the things are being done correctly.</span>
+
+
+## Data Product
+- Shifting mindset from data project to data product is important.
+- Consider something product meaning it will require continous improve on every aspect: 
+    - Data quality
+    - Optimize data processes
+    - Data design
+- The continous improvement should focus on **REDUCE WASTE**. The approach lean methodology is to achieve reduce time to maket or time to production after all.
